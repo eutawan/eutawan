@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="left">statistics</h2>
+<h2 align="left">Statistics</h2>
 
 ###
 
